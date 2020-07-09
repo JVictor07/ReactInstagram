@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "T'Challa",
+    "avatar": "https://viniciusvinna.netlify.app/assets//api-instagram/profiles/black-panther/black-panther-profile.jpg",
+    "username": "blackpanther",
+    "email": "blackpanther@gmail.com"
+  },
+  {
+    "id": "2",
+    "name": "Bruce Wayne",
+    "avatar": "https://viniciusvinna.netlify.app/assets//api-instagram/profiles/bruce/bruce-profile.jpg",
+    "username": "brucewayne",
+    "email": "iamnotthebatman@hotmail.com"
+  },
+  {
+    "id": "3",
+    "name": "Carol Danvers",
+    "avatar": "https://viniciusvinna.netlify.app/assets//api-instagram/profiles/carol/carol-profile.jpg",
+    "username": "captainmarvel",
+    "email": "captainmarvel@yahoo.com"
+  },
+  {
+    "id": "4",
+    "name": "Monkey D. Luffy",
+    "avatar": "https://d17lbu6bbzbdc8.cloudfront.net/wp-content/uploads/2020/05/10214642/luffy-one-piece.jpeg",
+    "username": "Luffy",
+    "email": "chuck norris@hotmail.com"
+  },
+  {
+    "id": "5",
+    "name": "Gamora",
+    "avatar": "https://viniciusvinna.netlify.app/assets//api-instagram/profiles/gamora/gamora-profile.jpg",
+    "username": "gamora",
+    "email": "Abigayle.Kemmer32@yahoo.com"
+  },
+  {
+    "id": "6",
+    "name": "Mestre Yoda",
+    "avatar": "https://viniciusvinna.netlify.app/assets//api-instagram/profiles/yoda/yoda-profile.jpg",
+    "username": "mestrejedi",
+    "email": "yoda@gmail.com"
+  },
+  {
+    "id": "7",
+    "name": "Eragon",
+    "avatar": "https://vignette.wikia.nocookie.net/inheritance/images/4/4c/Eragoninfobox_blue.jpg/revision/latest/top-crop/width/360/height/450?cb=20080605181143",
+    "username": "eragon",
+    "email": "yoda@gmail.com"
+  },
+  {
+    "id": "8",
+    "name": "Peter Parker",
+    "avatar": "https://pm1.narvii.com/7424/d6addb4b88fbf54f0d3951121e8a7facd0b4a97fr1-366-588v2_uhq.jpg",
+    "username": "Peter Parker",
+    "email": "yoda@gmail.com"
+  },
+  {
+    "id": "9",
+    "name": "Rocket Raccoon",
+    "avatar": "https://2.bp.blogspot.com/-Ubeuoi65NA4/XF4F5tfFAoI/AAAAAAAAA9I/fTGSSsw6iQcyDQl0YEfe5Hes9-WL5pQCQCLcBGAs/s1600/mistonerd.com-Rocket_Raccoon.jpg",
+    "username": "Rocket",
+    "email": "yoda@gmail.com"
+  }
+]
