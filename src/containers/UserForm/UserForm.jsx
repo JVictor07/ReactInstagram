@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import SuccessMessage from '../../components/SuccessMessage';
+/* import SuccessMessage from '../../components/SuccessMessage'; */
 
 import './UserForm.scss';
 
@@ -10,7 +10,7 @@ const UserForm = () => {
   const [email, setEmail] = useState("")
   const [image, setImage] = useState("")
 
-  const [sucess, setSucess] = useState(false)
+  /* const [sucess, setSucess] = useState(false) */
 
   function RegisterUser() {
     /* const data = {
@@ -101,7 +101,7 @@ const UserForm = () => {
 
           <button onClick={() => RegisterUser()}>Cadastrar</button>
         </div>
-        {sucess && <SuccessMessage />}
+        {/* {sucess && <SuccessMessage />} */}
       </section>
     </React.Fragment>
   );
