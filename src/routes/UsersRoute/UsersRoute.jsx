@@ -1,8 +1,8 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 
 import UsersList from '../../containers/UsersList/UsersList';
 
-import { getUsers } from "../../services/users"
+/* import { getUsers } from "../../services/users" */
 
 import users from '../../data/users.json'
 
