@@ -31,7 +31,7 @@
   The instagram simulation was one of the challenges in the Codenation React Bootcamp. With this project, we could practice
   our knowledge in React.js and in the Fetch API to do requests.
 </p>
-asasasas
+
 <h2>How do we run this project ? 🖥️</h2>
 <p>
   For make it easier to you, it's only click here <a href="https://insta-react.netlify.app/">Link</a> and you will go to the hosted website 😁.
